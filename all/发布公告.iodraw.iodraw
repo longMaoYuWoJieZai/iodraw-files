@@ -196,11 +196,6 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-56" target="MmTCJCLFOmx_WAnEsHNl-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-64" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-59">
-          <mxGeometry x="-0.008" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-56" value="系统管理员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
