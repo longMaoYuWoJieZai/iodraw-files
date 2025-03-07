@@ -174,7 +174,7 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-56" value="选择操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-58" value="新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YnmN5uygaSWaU1raaQHm-58" value="新增公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="948" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-59" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
