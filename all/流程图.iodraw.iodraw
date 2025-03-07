@@ -71,6 +71,10 @@
         <mxCell id="shHFLVeSwulJfXPRPly0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="800" />
+              <mxPoint x="141" y="800" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-27" value="删除当前申请" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
