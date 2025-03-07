@@ -55,10 +55,10 @@
           <mxGeometry x="193" y="239.99999999999997" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-23" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="318" width="40" height="30" as="geometry" />
+          <mxGeometry x="67" y="328" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-24" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="318" width="40" height="30" as="geometry" />
+          <mxGeometry x="170" y="328" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-27" target="YnmN5uygaSWaU1raaQHm-29">
           <mxGeometry relative="1" as="geometry" />
