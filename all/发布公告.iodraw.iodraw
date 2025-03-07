@@ -23,9 +23,9 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-1" target="MmTCJCLFOmx_WAnEsHNl-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-54" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-35">
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-54" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-35">
           <mxGeometry x="0.1" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -146,7 +146,7 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-34" target="MmTCJCLFOmx_WAnEsHNl-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-53" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-39">
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-53" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-39">
           <mxGeometry x="0.04" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
