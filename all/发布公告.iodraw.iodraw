@@ -100,6 +100,9 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-24" value="管理" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-80" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-29" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-70" width="100" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
