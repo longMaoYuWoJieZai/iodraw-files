@@ -25,11 +25,6 @@
         <mxCell id="shHFLVeSwulJfXPRPly0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-6" target="shHFLVeSwulJfXPRPly0-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="shHFLVeSwulJfXPRPly0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-6" value="是否请假" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="267" width="120" height="80" as="geometry" />
         </mxCell>
