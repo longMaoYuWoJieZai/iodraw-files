@@ -183,7 +183,7 @@
           <mxGeometry x="370" y="-70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-51" value="申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="185" width="120" height="80" as="geometry" />
+          <mxGeometry x="707" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-56" target="MmTCJCLFOmx_WAnEsHNl-58">
           <mxGeometry relative="1" as="geometry" />
