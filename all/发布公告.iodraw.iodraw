@@ -206,17 +206,17 @@
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="YnmN5uygaSWaU1raaQHm-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-50" y="1018" as="sourcePoint" />
+            <mxPoint x="150" y="1008" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-71" target="YnmN5uygaSWaU1raaQHm-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-71" value="输入公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-72" value="保存公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="1210" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
