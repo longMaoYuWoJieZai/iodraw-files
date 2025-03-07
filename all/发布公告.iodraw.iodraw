@@ -174,14 +174,14 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-56" value="选择操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="947" width="120" height="60" as="geometry" />
+        <mxCell id="YnmN5uygaSWaU1raaQHm-58" value="新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="948" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="947" width="120" height="60" as="geometry" />
+        <mxCell id="YnmN5uygaSWaU1raaQHm-59" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="948" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="947" width="120" height="60" as="geometry" />
+        <mxCell id="YnmN5uygaSWaU1raaQHm-60" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="948" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.437;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-56" target="YnmN5uygaSWaU1raaQHm-58">
           <mxGeometry relative="1" as="geometry">
