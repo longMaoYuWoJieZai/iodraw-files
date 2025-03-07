@@ -202,7 +202,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-64" value="输入公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="1094" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-66" value="保存公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1240" width="120" height="60" as="geometry" />
