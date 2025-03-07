@@ -236,8 +236,8 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-76" value="确认删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1153" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-78" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1293" width="120" height="60" as="geometry" />
+        <mxCell id="YnmN5uygaSWaU1raaQHm-78" value="删除公告" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
