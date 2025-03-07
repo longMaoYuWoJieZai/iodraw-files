@@ -43,7 +43,7 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-10" value="查看" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-12" value="菜谱" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
