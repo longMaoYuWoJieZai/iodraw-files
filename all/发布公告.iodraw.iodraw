@@ -12,6 +12,9 @@
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-1" target="MmTCJCLFOmx_WAnEsHNl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -33,6 +36,9 @@
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-3" value="相册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-10" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="574" y="220" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
