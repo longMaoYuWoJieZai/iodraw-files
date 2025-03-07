@@ -16,6 +16,9 @@
         <mxCell id="shHFLVeSwulJfXPRPly0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-3" target="shHFLVeSwulJfXPRPly0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="shHFLVeSwulJfXPRPly0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-3" target="shHFLVeSwulJfXPRPly0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-3" value="请假模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="80" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-9" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="415" width="40" height="30" as="geometry" />
+          <mxGeometry x="334" y="400" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="656" width="120" height="60" as="geometry" />
