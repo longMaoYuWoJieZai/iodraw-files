@@ -98,7 +98,7 @@
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-20" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-19">
           <mxGeometry x="0.0629" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-17" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -153,7 +153,7 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-29" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-34" target="MmTCJCLFOmx_WAnEsHNl-38">
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-39" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-34" target="MmTCJCLFOmx_WAnEsHNl-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-53" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-39">
