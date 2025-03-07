@@ -59,8 +59,17 @@
         <mxCell id="shHFLVeSwulJfXPRPly0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-23" target="shHFLVeSwulJfXPRPly0-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="shHFLVeSwulJfXPRPly0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-23" target="shHFLVeSwulJfXPRPly0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-23" value="是否撤销当前&lt;div&gt;请假信息&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="shHFLVeSwulJfXPRPly0-26" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="758" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="shHFLVeSwulJfXPRPly0-27" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
