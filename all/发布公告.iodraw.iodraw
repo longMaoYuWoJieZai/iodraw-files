@@ -135,7 +135,7 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-24" value="管理" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="-70" y="-80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-31" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-29" target="MmTCJCLFOmx_WAnEsHNl-3">
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-31" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-29" target="MmTCJCLFOmx_WAnEsHNl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-33" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-31">
@@ -198,7 +198,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-58" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-320" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="-320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-62" value="请假" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="70" width="120" height="60" as="geometry" />
