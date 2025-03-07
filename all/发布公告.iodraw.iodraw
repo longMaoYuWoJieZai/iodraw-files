@@ -148,7 +148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-41" value="维护" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-80" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
