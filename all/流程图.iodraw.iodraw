@@ -25,6 +25,11 @@
         <mxCell id="shHFLVeSwulJfXPRPly0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-6" target="shHFLVeSwulJfXPRPly0-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="390" />
+              <mxPoint x="170" y="390" />
+              <mxPoint x="170" y="570" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="shHFLVeSwulJfXPRPly0-6" target="shHFLVeSwulJfXPRPly0-4">
