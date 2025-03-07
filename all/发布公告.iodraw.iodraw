@@ -221,6 +221,15 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-72" value="修改公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YnmN5uygaSWaU1raaQHm-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-75" target="YnmN5uygaSWaU1raaQHm-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YnmN5uygaSWaU1raaQHm-75" value="选择公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1064" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YnmN5uygaSWaU1raaQHm-76" value="修改公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
