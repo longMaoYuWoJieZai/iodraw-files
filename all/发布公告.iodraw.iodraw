@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-4" value="是否选择类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-15" value="按照名称和类型查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="120" height="60" as="geometry" />
@@ -55,10 +55,10 @@
           <mxGeometry x="230" y="239.99999999999997" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-23" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="318" width="40" height="30" as="geometry" />
+          <mxGeometry x="100" y="318" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-24" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="318" width="40" height="30" as="geometry" />
+          <mxGeometry x="220" y="318" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-27" target="YnmN5uygaSWaU1raaQHm-29">
           <mxGeometry relative="1" as="geometry" />
@@ -81,7 +81,7 @@
           <mxGeometry x="-220" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-31" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="318" width="40" height="30" as="geometry" />
+          <mxGeometry x="-170" y="318" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-32" target="YnmN5uygaSWaU1raaQHm-35">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-32" value="是否选择了类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="239.99999999999997" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="239.99999999999997" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="45" width="40" height="30" as="geometry" />
