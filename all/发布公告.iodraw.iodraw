@@ -199,10 +199,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-64" value="输入公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-66" value="保存公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="YnmN5uygaSWaU1raaQHm-71" source="YnmN5uygaSWaU1raaQHm-59">
           <mxGeometry relative="1" as="geometry">
