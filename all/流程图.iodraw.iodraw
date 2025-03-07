@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-4" value="点击申请按钮，填写相关信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="shHFLVeSwulJfXPRPly0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="570" width="120" height="60" as="geometry" />
