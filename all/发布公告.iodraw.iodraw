@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-9" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-7">
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-9" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-7">
           <mxGeometry x="-0.0178" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
