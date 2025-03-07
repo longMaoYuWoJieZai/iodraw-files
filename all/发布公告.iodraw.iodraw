@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-10" value="查看" style="rhombus;whiteSpace=wrap;html=1;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="467" y="190" width="127" height="70" as="geometry" />
+          <mxGeometry x="467" y="200" width="127" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-47" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-12" target="MmTCJCLFOmx_WAnEsHNl-46">
           <mxGeometry relative="1" as="geometry">
@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-51" value="申请" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="620" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-56" target="MmTCJCLFOmx_WAnEsHNl-58">
           <mxGeometry relative="1" as="geometry" />
