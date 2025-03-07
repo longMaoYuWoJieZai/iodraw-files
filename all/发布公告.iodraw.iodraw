@@ -15,8 +15,13 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-2" target="MmTCJCLFOmx_WAnEsHNl-3">
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-2" target="MmTCJCLFOmx_WAnEsHNl-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-8" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-7">
+          <mxGeometry x="-0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-2" value="收藏" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="120" height="80" as="geometry" />
