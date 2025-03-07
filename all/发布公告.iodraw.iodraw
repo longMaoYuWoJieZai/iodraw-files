@@ -75,8 +75,11 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-31" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-170" y="318" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-32" value="是否选择了" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YnmN5uygaSWaU1raaQHm-32" value="是否选择了类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="239.99999999999997" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YnmN5uygaSWaU1raaQHm-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="258" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
