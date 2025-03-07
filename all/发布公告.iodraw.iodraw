@@ -19,8 +19,10 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-4" target="YnmN5uygaSWaU1raaQHm-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YnmN5uygaSWaU1raaQHm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.9999999999999" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-4" target="YnmN5uygaSWaU1raaQHm-2">
           <mxGeometry relative="1" as="geometry">
@@ -34,14 +36,11 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-4" value="是否登陆成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="228" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-7" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="308" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-13" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="208" width="40" height="30" as="geometry" />
+          <mxGeometry x="50" y="200" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
