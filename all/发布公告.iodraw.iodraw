@@ -59,6 +59,9 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-16" value="托育师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="60" width="110" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
