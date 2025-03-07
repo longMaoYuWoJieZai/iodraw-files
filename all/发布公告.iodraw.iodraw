@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-34" value="查询" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-38" value="公告" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
