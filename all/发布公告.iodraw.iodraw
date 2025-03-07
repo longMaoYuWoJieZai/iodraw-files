@@ -138,7 +138,7 @@
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-27" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-26">
           <mxGeometry x="-0.1593" relative="1" as="geometry">
-            <mxPoint x="-113" y="15" as="offset" />
+            <mxPoint x="-35" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-24" value="管理" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
