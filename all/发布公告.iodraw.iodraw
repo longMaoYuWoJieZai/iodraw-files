@@ -230,7 +230,7 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-75" value="选择公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1047" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-76" value="修改公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YnmN5uygaSWaU1raaQHm-76" value="确认删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1153" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
