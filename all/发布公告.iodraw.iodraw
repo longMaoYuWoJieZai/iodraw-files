@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="YnmN5uygaSWaU1raaQHm-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="289.9999999999999" y="181.16000000000022" as="sourcePoint" />
+            <mxPoint x="180" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-4" value="是否选择类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
