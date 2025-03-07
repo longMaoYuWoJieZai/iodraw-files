@@ -45,7 +45,7 @@
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-3" value="相册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MmTCJCLFOmx_WAnEsHNl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-10" target="MmTCJCLFOmx_WAnEsHNl-12">
+        <mxCell id="MmTCJCLFOmx_WAnEsHNl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MmTCJCLFOmx_WAnEsHNl-10" target="MmTCJCLFOmx_WAnEsHNl-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MmTCJCLFOmx_WAnEsHNl-15" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MmTCJCLFOmx_WAnEsHNl-13">
