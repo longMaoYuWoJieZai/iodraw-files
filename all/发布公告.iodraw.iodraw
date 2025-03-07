@@ -22,9 +22,14 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-4" target="YnmN5uygaSWaU1raaQHm-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-4" target="YnmN5uygaSWaU1raaQHm-2">
+        <mxCell id="YnmN5uygaSWaU1raaQHm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-4" target="YnmN5uygaSWaU1raaQHm-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="71" y="268" />
+              <mxPoint x="71" y="160" />
+              <mxPoint x="120" y="160" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-4" value="是否登陆成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
