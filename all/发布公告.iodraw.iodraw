@@ -236,11 +236,14 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-76" value="确认删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1153" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YnmN5uygaSWaU1raaQHm-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YnmN5uygaSWaU1raaQHm-78" target="YnmN5uygaSWaU1raaQHm-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-78" value="删除公告" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-80" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="106" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
