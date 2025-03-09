@@ -25,8 +25,11 @@
         <mxCell id="vYtCW7OHouDC-uO_x2UU-13" value="更新" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10792" y="-4711" width="134" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="vYtCW7OHouDC-uO_x2UU-14" value="协助" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10657" y="-4852" width="134" height="78" as="geometry" />
+        <mxCell id="vYtCW7OHouDC-uO_x2UU-14" value="替换" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10602" y="-4711" width="134" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="vYtCW7OHouDC-uO_x2UU-15" value="协助" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10687" y="-4882" width="134" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
