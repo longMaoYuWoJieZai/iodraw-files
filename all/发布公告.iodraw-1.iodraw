@@ -36,7 +36,7 @@
             <mxPoint x="-100.00000000000023" y="280.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-4" value="是否选择类型" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="YnmN5uygaSWaU1raaQHm-4" value="是否选择&lt;div&gt;类型&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-13" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" parent="1" source="YnmN5uygaSWaU1raaQHm-15" target="YnmN5uygaSWaU1raaQHm-46" edge="1">
@@ -54,7 +54,7 @@
         <mxCell id="YnmN5uygaSWaU1raaQHm-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" parent="1" source="YnmN5uygaSWaU1raaQHm-17" target="YnmN5uygaSWaU1raaQHm-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-17" value="是否选择名称" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="YnmN5uygaSWaU1raaQHm-17" value="是否选择&lt;div&gt;名称&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="193" y="239.99999999999997" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-23" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
