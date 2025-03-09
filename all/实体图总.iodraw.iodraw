@@ -391,13 +391,13 @@
         <mxCell id="sGdwBtBSiflX_oVdHdSh-142" value="菜谱名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="594.5" y="2051" width="105" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="sGdwBtBSiflX_oVdHdSh-143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-144" target="sGdwBtBSiflX_oVdHdSh-136">
+        <mxCell id="sGdwBtBSiflX_oVdHdSh-143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.219;exitY=0.098;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-144" target="sGdwBtBSiflX_oVdHdSh-136">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="2128" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-144" value="说明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="594" y="2267" width="105" height="65" as="geometry" />
+          <mxGeometry x="594" y="2263" width="105" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-146" target="sGdwBtBSiflX_oVdHdSh-136">
           <mxGeometry relative="1" as="geometry" />
