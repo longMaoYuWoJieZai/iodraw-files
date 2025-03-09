@@ -191,9 +191,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-78" value="相册评价" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="637" y="856" width="143" height="70" as="geometry" />
+          <mxGeometry x="675" y="842" width="143" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tVcEw_f85Ama4gfEZErG-79" value="相册统计" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="tVcEw_f85Ama4gfEZErG-79" value="相册统计" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="590" y="932" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-80" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="tVcEw_f85Ama4gfEZErG-14" target="tVcEw_f85Ama4gfEZErG-79" edge="1">
