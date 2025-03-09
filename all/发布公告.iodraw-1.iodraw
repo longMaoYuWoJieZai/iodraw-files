@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-27" value="是否选择了&lt;div&gt;名称&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="YnmN5uygaSWaU1raaQHm-27" value="是否选择&lt;div&gt;了&lt;span style=&quot;background-color: initial;&quot;&gt;名称&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-220" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-28" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
