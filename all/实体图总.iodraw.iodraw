@@ -385,7 +385,7 @@
         <mxCell id="sGdwBtBSiflX_oVdHdSh-138" value="菜谱id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="2045" width="105" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="sGdwBtBSiflX_oVdHdSh-141" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-142" target="sGdwBtBSiflX_oVdHdSh-136">
+        <mxCell id="sGdwBtBSiflX_oVdHdSh-141" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-142" target="sGdwBtBSiflX_oVdHdSh-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-142" value="菜谱名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -397,7 +397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-144" value="说明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="594" y="2279" width="105" height="65" as="geometry" />
+          <mxGeometry x="594" y="2273" width="105" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-146" target="sGdwBtBSiflX_oVdHdSh-136">
           <mxGeometry relative="1" as="geometry" />
