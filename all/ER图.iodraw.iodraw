@@ -16,8 +16,8 @@
         <mxCell id="vYtCW7OHouDC-uO_x2UU-10" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10473" y="-4874.5" width="127" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="vYtCW7OHouDC-uO_x2UU-11" value="协助" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10677" y="-4872" width="134" height="78" as="geometry" />
+        <mxCell id="vYtCW7OHouDC-uO_x2UU-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-11166" y="-4711" width="134" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
