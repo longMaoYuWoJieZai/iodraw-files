@@ -1,9 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="fO4VVZ4Kty0pJahSLjvS" name="第 1 页">
-    <mxGraphModel dx="19920" dy="12280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="31120" dy="20280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;img width=&quot;550&quot; height=&quot;353&quot; src=&quot;file:///C:\Users\31317\AppData\Local\Temp\ksohtml7196\wps2.jpg&quot;&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;img width=&quot;550&quot; height=&quot;353&quot; src=&quot;file:///C:\Users\31317\AppData\Local\Temp\ksohtml7196\wps2.jpg&quot;&gt;&lt;/p&gt;" id="vYtCW7OHouDC-uO_x2UU-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-10940" y="-7780" width="560" height="400" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
