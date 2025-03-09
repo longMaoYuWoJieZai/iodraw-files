@@ -90,7 +90,7 @@
         <mxCell id="sGdwBtBSiflX_oVdHdSh-35" value="adminId&#xa;adminName&#xa;adminPassword&#xa;adminXingming&#xa;adminSex&#xa;adminAge&#xa;adminPhone&#xa;adminMark&#xa;adminMark1&#xa;adminMark2&#xa;adminMark3&#xa;adminMark4&#xa;adminDate&#xa;adminDate1&#xa;adminDate2&#xa;adminType&#xa;adminType1&#xa;adminType2&#xa;adminDouble&#xa;adminDouble1&#xa;adminDouble2&#xa;adminZong&#xa;adminZong1&#xa;adminZong2&#xa;adminImg&#xa;adminImgName" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="947" y="471" width="120" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="sGdwBtBSiflX_oVdHdSh-36" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sGdwBtBSiflX_oVdHdSh-36" value="管理员表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523.5" y="652" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-38" target="sGdwBtBSiflX_oVdHdSh-36">
