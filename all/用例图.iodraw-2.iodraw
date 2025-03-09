@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-75" value="相册信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="706" y="783" width="140" height="70" as="geometry" />
+          <mxGeometry x="776" y="742" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-76" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="tVcEw_f85Ama4gfEZErG-14" target="tVcEw_f85Ama4gfEZErG-75" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
