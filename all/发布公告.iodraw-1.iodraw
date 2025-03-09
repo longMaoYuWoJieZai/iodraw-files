@@ -58,7 +58,7 @@
           <mxGeometry x="193" y="239.99999999999997" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-23" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="75" y="331" width="37" height="35" as="geometry" />
+          <mxGeometry x="75" y="319" width="37" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-24" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="188" y="331" width="37" height="35" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry x="400" y="239.99999999999997" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="338" y="263" width="37" height="35" as="geometry" />
+          <mxGeometry x="338" y="249" width="37" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="YnmN5uygaSWaU1raaQHm-35" target="YnmN5uygaSWaU1raaQHm-46" edge="1">
           <mxGeometry relative="1" as="geometry">
