@@ -412,7 +412,7 @@
         <mxCell id="sGdwBtBSiflX_oVdHdSh-147" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-148" target="sGdwBtBSiflX_oVdHdSh-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sGdwBtBSiflX_oVdHdSh-148" value="相册类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sGdwBtBSiflX_oVdHdSh-148" value="图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="737.5" y="2077" width="105" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-149" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-150" target="sGdwBtBSiflX_oVdHdSh-136">
