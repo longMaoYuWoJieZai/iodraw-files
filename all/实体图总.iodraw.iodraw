@@ -427,7 +427,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-161" value="请假id" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="464" y="2425" width="105" height="65" as="geometry" />
+          <mxGeometry x="458" y="2423" width="105" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-163" target="sGdwBtBSiflX_oVdHdSh-159">
           <mxGeometry relative="1" as="geometry">
@@ -441,7 +441,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-165" value="班级id" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="569" y="2406" width="105" height="65" as="geometry" />
+          <mxGeometry x="569" y="2419" width="105" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-166" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-167" target="sGdwBtBSiflX_oVdHdSh-159">
           <mxGeometry relative="1" as="geometry" />
@@ -465,7 +465,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-173" value="班级名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="681" y="2419" width="105" height="65" as="geometry" />
+          <mxGeometry x="677" y="2429" width="105" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-176" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="sGdwBtBSiflX_oVdHdSh-177" target="sGdwBtBSiflX_oVdHdSh-159">
           <mxGeometry relative="1" as="geometry" />
