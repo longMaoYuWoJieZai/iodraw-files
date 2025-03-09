@@ -107,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YnmN5uygaSWaU1raaQHm-32" value="是否选择了类型" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="YnmN5uygaSWaU1raaQHm-32" value="是否选择&lt;div&gt;类型&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="400" y="239.99999999999997" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YnmN5uygaSWaU1raaQHm-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
