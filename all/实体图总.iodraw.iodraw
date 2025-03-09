@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Vr8umqNH0ND1jvteN0O6">
-    <mxGraphModel dx="996" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
           <mxGeometry x="390" y="362" width="105" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-35" value="adminId&#xa;adminName&#xa;adminPassword&#xa;adminXingming&#xa;adminSex&#xa;adminAge&#xa;adminPhone&#xa;adminMark&#xa;adminMark1&#xa;adminMark2&#xa;adminMark3&#xa;adminMark4&#xa;adminDate&#xa;adminDate1&#xa;adminDate2&#xa;adminType&#xa;adminType1&#xa;adminType2&#xa;adminDouble&#xa;adminDouble1&#xa;adminDouble2&#xa;adminZong&#xa;adminZong1&#xa;adminZong2&#xa;adminImg&#xa;adminImgName" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="10" width="120" height="400" as="geometry" />
+          <mxGeometry x="947" y="471" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="sGdwBtBSiflX_oVdHdSh-36" value="用户表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523.5" y="652" width="120" height="60" as="geometry" />
