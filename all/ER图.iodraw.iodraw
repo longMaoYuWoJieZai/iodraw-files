@@ -52,8 +52,11 @@
         <mxCell id="vYtCW7OHouDC-uO_x2UU-22" value="老师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-11353" y="-4555.5" width="127" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="vYtCW7OHouDC-uO_x2UU-23" value="老师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vYtCW7OHouDC-uO_x2UU-23" value="相册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10972" y="-4555.5" width="127" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="vYtCW7OHouDC-uO_x2UU-24" value="老师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10788.5" y="-4555.5" width="127" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
