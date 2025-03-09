@@ -40,6 +40,9 @@
         <mxCell id="vYtCW7OHouDC-uO_x2UU-18" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10602" y="-4441" width="134" height="79" as="geometry" />
         </mxCell>
+        <mxCell id="vYtCW7OHouDC-uO_x2UU-19" value="申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10789" y="-4441" width="134" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
