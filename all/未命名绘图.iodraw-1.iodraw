@@ -89,7 +89,7 @@
           <mxGeometry x="-443" y="450" width="50" height="230" as="geometry" />
         </mxCell>
         <mxCell id="18m_7c6MzueHciqBsNHq-30" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;基&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;础&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;信&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;息&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="656" y="450" width="50" height="230" as="geometry" />
+          <mxGeometry x="595" y="450" width="50" height="230" as="geometry" />
         </mxCell>
         <mxCell id="18m_7c6MzueHciqBsNHq-31" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;班&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;级&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;老&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;师&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="-383" y="450" width="50" height="230" as="geometry" />
@@ -220,6 +220,9 @@
         </mxCell>
         <mxCell id="N-oD6qnsIb6ewqzypNAn-12" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;接&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;送&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;请&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;假&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="347" y="450" width="50" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="N-oD6qnsIb6ewqzypNAn-13" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;工&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;作&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;培&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;训&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="732" y="460" width="50" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
