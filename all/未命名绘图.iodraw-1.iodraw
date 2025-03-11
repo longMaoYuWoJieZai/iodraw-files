@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N-oD6qnsIb6ewqzypNAn-12" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;接&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;送&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;请&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;假&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="467" y="450" width="50" height="230" as="geometry" />
+          <mxGeometry x="347" y="450" width="50" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
