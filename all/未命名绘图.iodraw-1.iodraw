@@ -65,7 +65,7 @@
           <mxGeometry x="557" y="300" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18m_7c6MzueHciqBsNHq-8" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-903" y="300" width="270" height="60" as="geometry" />
+          <mxGeometry x="-902" y="300" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18m_7c6MzueHciqBsNHq-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=34;fontStyle=0;strokeWidth=4;" parent="1" source="18m_7c6MzueHciqBsNHq-8" target="18m_7c6MzueHciqBsNHq-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="18m_7c6MzueHciqBsNHq-19" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;基&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;础&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;信&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;息&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-562" y="450" width="50" height="230" as="geometry" />
+          <mxGeometry x="-505" y="450" width="50" height="230" as="geometry" />
         </mxCell>
         <mxCell id="18m_7c6MzueHciqBsNHq-20" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;接&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;送&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;请&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;假&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="-143" y="450" width="50" height="230" as="geometry" />
@@ -178,21 +178,21 @@
           <mxGeometry x="-486" y="1306" width="50" height="230" as="geometry" />
         </mxCell>
         <mxCell id="N-oD6qnsIb6ewqzypNAn-7" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-903" y="440" width="50" height="230" as="geometry" />
+          <mxGeometry x="-902" y="440" width="50" height="230" as="geometry" />
         </mxCell>
         <mxCell id="N-oD6qnsIb6ewqzypNAn-8" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;网&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;站&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;信&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;息&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-842" y="440" width="50" height="230" as="geometry" />
+          <mxGeometry x="-841" y="440" width="50" height="230" as="geometry" />
         </mxCell>
         <mxCell id="N-oD6qnsIb6ewqzypNAn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.001;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=34;fontStyle=0;strokeWidth=4;entryPerimeter=0;exitX=0.478;exitY=1.069;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="18m_7c6MzueHciqBsNHq-8" target="N-oD6qnsIb6ewqzypNAn-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-774" y="364" as="sourcePoint" />
-            <mxPoint x="-806" y="508" as="targetPoint" />
+            <mxPoint x="-773" y="364" as="sourcePoint" />
+            <mxPoint x="-805" y="508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-oD6qnsIb6ewqzypNAn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.478;exitY=0.981;exitDx=0;exitDy=0;entryX=0.497;entryY=0.001;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=34;fontStyle=0;strokeWidth=4;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="18m_7c6MzueHciqBsNHq-8" target="N-oD6qnsIb6ewqzypNAn-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-513" y="471" as="sourcePoint" />
-            <mxPoint x="-833" y="561" as="targetPoint" />
+            <mxPoint x="-512" y="471" as="sourcePoint" />
+            <mxPoint x="-832" y="561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-oD6qnsIb6ewqzypNAn-12" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;接&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;送&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;请&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;假&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" vertex="1" parent="1">
