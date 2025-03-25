@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zXGrDtFx94okN-ZSl072-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zXGrDtFx94okN-ZSl072-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zXGrDtFx94okN-ZSl072-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="240" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
