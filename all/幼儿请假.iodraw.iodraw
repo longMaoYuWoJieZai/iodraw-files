@@ -19,13 +19,13 @@
         <mxCell id="zXGrDtFx94okN-ZSl072-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXGrDtFx94okN-ZSl072-3" target="zXGrDtFx94okN-ZSl072-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zXGrDtFx94okN-ZSl072-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXGrDtFx94okN-ZSl072-3" value="是否请假" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zXGrDtFx94okN-ZSl072-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXGrDtFx94okN-ZSl072-4" target="zXGrDtFx94okN-ZSl072-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zXGrDtFx94okN-ZSl072-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXGrDtFx94okN-ZSl072-4" value="点击申请按钮，填写相关信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zXGrDtFx94okN-ZSl072-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXGrDtFx94okN-ZSl072-5" target="zXGrDtFx94okN-ZSl072-6">
