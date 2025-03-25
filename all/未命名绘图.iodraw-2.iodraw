@@ -190,15 +190,6 @@
         <mxCell id="N-oD6qnsIb6ewqzypNAn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;" parent="1" source="N-oD6qnsIb6ewqzypNAn-13" target="18m_7c6MzueHciqBsNHq-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N-oD6qnsIb6ewqzypNAn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;" parent="1" source="N-oD6qnsIb6ewqzypNAn-12" target="18m_7c6MzueHciqBsNHq-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="405" />
-              <mxPoint x="226" y="405" />
-              <mxPoint x="226" y="358" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
