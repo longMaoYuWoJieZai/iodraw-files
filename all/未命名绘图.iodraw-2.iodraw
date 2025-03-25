@@ -181,7 +181,7 @@
             <mxPoint x="-629" y="561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gzk7VF9fTgS8v9RXjH4s-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-oD6qnsIb6ewqzypNAn-12" target="18m_7c6MzueHciqBsNHq-6">
+        <mxCell id="Gzk7VF9fTgS8v9RXjH4s-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1" source="N-oD6qnsIb6ewqzypNAn-12" target="18m_7c6MzueHciqBsNHq-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-oD6qnsIb6ewqzypNAn-12" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;接&lt;/span&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;送&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;请&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;假&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;fontStyle=0;strokeWidth=4;" parent="1" vertex="1">
