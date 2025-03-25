@@ -31,10 +31,10 @@
         <mxCell id="zXGrDtFx94okN-ZSl072-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXGrDtFx94okN-ZSl072-5" target="zXGrDtFx94okN-ZSl072-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zXGrDtFx94okN-ZSl072-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXGrDtFx94okN-ZSl072-5" value="请假信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zXGrDtFx94okN-ZSl072-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXGrDtFx94okN-ZSl072-6" value="撤销请假申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="585" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
