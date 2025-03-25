@@ -19,6 +19,9 @@
         <mxCell id="zXGrDtFx94okN-ZSl072-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXGrDtFx94okN-ZSl072-3" target="zXGrDtFx94okN-ZSl072-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zXGrDtFx94okN-ZSl072-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zXGrDtFx94okN-ZSl072-3" target="zXGrDtFx94okN-ZSl072-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zXGrDtFx94okN-ZSl072-3" value="是否请假" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="182" width="120" height="80" as="geometry" />
         </mxCell>
@@ -46,7 +49,8 @@
         <mxCell id="zXGrDtFx94okN-ZSl072-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zXGrDtFx94okN-ZSl072-13" target="zXGrDtFx94okN-ZSl072-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="652" />
+              <mxPoint x="140" y="590" />
+              <mxPoint x="240" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
