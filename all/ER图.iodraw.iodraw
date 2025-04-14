@@ -8,31 +8,31 @@
           <mxGeometry x="-11425" y="-5647" width="1158" height="743" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-8" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10886" y="-4874" width="127" height="63" as="geometry" />
+          <mxGeometry x="-10824" y="-4487" width="127" height="63" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-9" value="协助" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10687" y="-4882" width="134" height="78" as="geometry" />
+          <mxGeometry x="-10625" y="-4495" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-10" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10472" y="-4874.5" width="127" height="63" as="geometry" />
+          <mxGeometry x="-10410" y="-4487.5" width="127" height="63" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-11166" y="-4711" width="134" height="78" as="geometry" />
+          <mxGeometry x="-11104" y="-4324" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-12" value="维护" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10979" y="-4714" width="134" height="78" as="geometry" />
+          <mxGeometry x="-10917" y="-4327" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-13" value="更新" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10792" y="-4711" width="134" height="78" as="geometry" />
+          <mxGeometry x="-10730" y="-4324" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-14" value="替换" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10602" y="-4711" width="134" height="78" as="geometry" />
+          <mxGeometry x="-10540" y="-4324" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-15" value="协助" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10687" y="-4882" width="134" height="78" as="geometry" />
+          <mxGeometry x="-10625" y="-4495" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-16" value="审批" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10401" y="-4711" width="134" height="78" as="geometry" />
+          <mxGeometry x="-10339" y="-4324" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-17" value="申请" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-10343.5" y="-3934" width="134" height="78" as="geometry" />
