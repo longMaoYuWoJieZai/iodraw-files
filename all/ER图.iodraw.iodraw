@@ -125,6 +125,9 @@
         <mxCell id="iQwBYCuqmj5yzbdDe47Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vYtCW7OHouDC-uO_x2UU-27" target="vYtCW7OHouDC-uO_x2UU-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iQwBYCuqmj5yzbdDe47Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vYtCW7OHouDC-uO_x2UU-27" target="vYtCW7OHouDC-uO_x2UU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-27" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-10637" y="-3802" width="127" height="63" as="geometry" />
         </mxCell>
