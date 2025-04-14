@@ -34,6 +34,9 @@
         <mxCell id="vYtCW7OHouDC-uO_x2UU-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-11108.5" y="-4302" width="134" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="iQwBYCuqmj5yzbdDe47Y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vYtCW7OHouDC-uO_x2UU-12" target="vYtCW7OHouDC-uO_x2UU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-12" value="维护" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-10921.5" y="-4305" width="134" height="78" as="geometry" />
         </mxCell>
@@ -68,16 +71,16 @@
           <mxGeometry x="-11318" y="-4119" width="127" height="63" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-23" value="相册" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10913.5" y="-4123" width="127" height="63" as="geometry" />
+          <mxGeometry x="-10917.5" y="-4123" width="127" height="63" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-24" value="公告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10733" y="-4119" width="127" height="63" as="geometry" />
+          <mxGeometry x="-10737" y="-4119" width="127" height="63" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-25" value="菜谱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10537" y="-4115" width="127" height="63" as="geometry" />
+          <mxGeometry x="-10541" y="-4115" width="127" height="63" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-26" value="请假" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10340" y="-4115" width="127" height="63" as="geometry" />
+          <mxGeometry x="-10344" y="-4115" width="127" height="63" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-27" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-10630" y="-3738" width="127" height="63" as="geometry" />
