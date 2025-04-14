@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="fO4VVZ4Kty0pJahSLjvS" name="第 1 页">
-    <mxGraphModel dx="13023" dy="6077" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12772" dy="5922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-17" value="申请" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-10401" y="-4440" width="134" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="vYtCW7OHouDC-uO_x2UU-18" value="查看" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10602" y="-4441" width="134" height="79" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-19" value="查询" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-10789" y="-4441" width="134" height="78" as="geometry" />
