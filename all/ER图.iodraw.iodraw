@@ -35,10 +35,10 @@
           <mxGeometry x="-10401" y="-4711" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-17" value="申请" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10401" y="-4440" width="134" height="78" as="geometry" />
+          <mxGeometry x="-10410" y="-3934" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-19" value="查询" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-10789" y="-4441" width="134" height="78" as="geometry" />
+          <mxGeometry x="-10730" y="-3934" width="134" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vYtCW7OHouDC-uO_x2UU-20" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-10934.5" y="-3934" width="134" height="78" as="geometry" />
