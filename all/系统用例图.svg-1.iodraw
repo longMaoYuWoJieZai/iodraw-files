@@ -334,7 +334,7 @@
             <mxPoint x="390" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tVcEw_f85Ama4gfEZErG-115" value="个人消息" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="tVcEw_f85Ama4gfEZErG-115" value="消息通知" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="368" y="1113" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-118" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;strokeWidth=3;" parent="1" source="tVcEw_f85Ama4gfEZErG-121" target="tVcEw_f85Ama4gfEZErG-100" edge="1">
