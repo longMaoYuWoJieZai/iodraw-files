@@ -8,7 +8,7 @@
           <mxGeometry x="58" y="293" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-5" value="托育机构" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="90" y="720" width="50" height="100" as="geometry" />
+          <mxGeometry x="43" y="720" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-6" value="基础信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="368" y="160" width="140" height="70" as="geometry" />
@@ -276,9 +276,6 @@
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-98" value="托育师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1057" y="260" width="50" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="tVcEw_f85Ama4gfEZErG-99" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="90" y="720" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-100" value="家长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1049" y="670" width="50" height="100" as="geometry" />
