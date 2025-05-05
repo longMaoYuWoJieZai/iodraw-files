@@ -278,7 +278,7 @@
           <mxGeometry x="1057" y="260" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-100" value="家长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1049" y="670" width="50" height="100" as="geometry" />
+          <mxGeometry x="1046" y="767" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tVcEw_f85Ama4gfEZErG-102" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" parent="1" source="tVcEw_f85Ama4gfEZErG-15" target="tVcEw_f85Ama4gfEZErG-98" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
